@@ -139,10 +139,11 @@ Visit: [http://localhost:3000](http://localhost:3000) (requires backend to be ru
 
 ---
 
-## 📹 photos
+## 📸 Screenshots
 
-> [Paste your Loom video link here]  
-> Explains architecture, API design, and trade-offs.
+| browser page after clicking the link | entering the details | Deleting |
+|--------------|----------|-----------|
+| ![Start](ass-1.png) | ![details](ass-2.png) | ![deleting](ass-3.png) |
 
 ---
 
