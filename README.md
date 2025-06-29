@@ -141,9 +141,9 @@ Visit: [http://localhost:3000](http://localhost:3000) (requires backend to be ru
 
 ## 📸 Screenshots
 
-| browser page after clicking the link | entering the details | Deleting |
-|--------------|----------|-----------|
-| ![Start](ass-1.png) | ![details](ass-2.png) | ![deleting](ass-3.png) |
+| browser page after clicking the link | entering the details | entering the details || entering the details |
+|--------------|----------|-----------||-----------|
+| ![Start](split-1.png)(split-2.png) | ![details](split-3.png)(split-4.png) | ![deleting](split-5.png)(split-6.png) | ![details](split-.png)(split-8.png) |
 
 ---
 
